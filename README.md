@@ -15,7 +15,7 @@ Cross Platform Frontend
 
 # IDENTIFIABLE OBJECTIVES
 Solution objective:  
-To allow multiple people across different devices to write a chapter of a story each
+To allow multiple people across different devices to each write a chapter of the same story
   
 Specifications:  
 User sign up  
