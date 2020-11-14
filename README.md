@@ -26,6 +26,7 @@ User remove other users from the story writing group
 User submit a chapter to the story  
 User delete a chapter from the story  
 User complete a story  
+User delete a story  
   
 Functional specifications:  
 Not Required  
